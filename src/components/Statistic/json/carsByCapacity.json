@@ -1,0 +1,149 @@
+{
+	"description" : "Cars by engine capacity",
+	"Poland": {
+		"obj": [
+			{
+				"capacity": "total",
+				"number": 24360166
+			},
+			{
+				"capacity": "less than 1400 cm3",
+				"number": 8430543
+			},
+			{
+				"capacity": "from 1400 cm3 to 1999 cm3",
+				"number": 12038405 
+			},
+			{
+				"capacity": "2000 cm3 or over",
+				"number": 3891218 
+			}
+		]
+	},
+
+	"Spain": {
+		"obj": [
+			{
+				"capacity": "total",
+				"number": 24558126
+			},
+			{
+				"capacity": "less than 1400 cm3",
+				"number": 7164328
+			},
+			{
+				"capacity": "from 1400 cm3 to 1999 cm3",
+				"number": 15183946 
+			},
+			{
+				"capacity": "2000 cm3 or over",
+				"number": 2209852 
+			}
+		]
+	},
+
+	"Germany": {
+		"obj": [
+			{
+				"capacity": "total",
+				"number": 47715977
+			},
+			{
+				"capacity": "less than 1400 cm3",
+				"number": 17257792
+			},
+			{
+				"capacity": "from 1400 cm3 to 1999 cm3",
+				"number": 22498307 
+			},
+			{
+				"capacity": "2000 cm3 or over",
+				"number": 7959878 
+			}
+		]
+	},
+
+	"France": {
+		"obj": [
+			{
+				"capacity": "total",
+				"number": 32416180
+			},
+			{
+				"capacity": "less than 1400 cm3",
+				"number": 12528416
+			},
+			{
+				"capacity": "from 1400 cm3 to 1999 cm3",
+				"number": 19238054 
+			},
+			{
+				"capacity": "2000 cm3 or over",
+				"number": 649710 
+			}
+		]
+	},
+
+	"Norway": {
+		"obj": [
+			{
+				"capacity": "total",
+				"number": 2801208
+			},
+			{
+				"capacity": "less than 1400 cm3",
+				"number": 470653
+			},
+			{
+				"capacity": "from 1400 cm3 to 1999 cm3",
+				"number": 1462410 
+			},
+			{
+				"capacity": "2000 cm3 or over",
+				"number": 868145 
+			}
+		]
+	},
+
+	"Sweden": {
+		"obj": [
+			{
+				"capacity": "total",
+				"number": 4887116
+			},
+			{
+				"capacity": "less than 1400 cm3",
+				"number": 1574876
+			},
+			{
+				"capacity": "from 1400 cm3 to 1999 cm3",
+				"number": 2210784 
+			},
+			{
+				"capacity": "2000 cm3 or over",
+				"number": 1101456 
+			}
+		]
+	},
+
+	"Italy": {
+		"obj": [
+			{
+				"capacity": "total",
+				"number": 39545232
+			},
+			{
+				"capacity": "less than 1400 cm3",
+				"number": 9584213
+			},
+			{
+				"capacity": "from 1400 cm3 to 1999 cm3",
+				"number": 26539487 
+			},
+			{
+				"capacity": "2000 cm3 or over",
+				"number": 3421532 
+			}
+		]
+	}
+}

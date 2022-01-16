@@ -1,17 +1,33 @@
 import React from 'react';
 import './App.css';
-import Button from './components/Button/Button';
+import Menu from "./Menu";
 
 function App() {
   return (
     <div className="map-size">
-        <Button top = {780} left = {270}/>
-        <Button top = {620} left = {470}/>
-        <Button top = {490} left = {660}/>
-        <Button top = {250} left = {520}/>
-        <Button top = {270} left = {570}/>
-        <Button top = {750} left = {450}/>
-        <Button top = {470} left = {530}/>
+        <Menu/>
+        <img src="./images/legenda.png" alt="Legenda" style={{position: 'absolute', marginLeft: 30}}/>
+        <div>
+            <img src="./images/szwecja.png" alt="Sweden" width={300} style={{marginTop: 210, marginLeft: 930 }}/>
+        </div>
+        <div>
+            <img src="./images/norwegia.png" alt="Norway" width={300} style={{ marginTop: -400, marginLeft: 620 }}/>
+        </div>
+        <div>
+            <img src="./images/polska.png" alt="Poland" width={300} style={{ marginTop: 10, marginLeft: 1020 }}/>
+        </div>
+        <div>
+            <img src="./images/niemcy.png" alt="Germany" width={300} style={{ marginTop: -130, marginLeft: 720 }}/>
+        </div>
+        <div>
+            <img src="./images/francja.png" alt="France" width={300} style={{ marginTop: -50, marginLeft: 470 }}/>
+        </div>
+        <div>
+            <img src="./images/hiszpania.png" alt="Spain" width={300} style={{ marginTop: -50, marginLeft: 180 }}/>
+        </div>
+        <div>
+            <img src="./images/wlochy.png" alt="Italy" width={300} style={{ marginTop: -450, marginLeft: 800 }}/>
+        </div>
     </div>
   );
 }

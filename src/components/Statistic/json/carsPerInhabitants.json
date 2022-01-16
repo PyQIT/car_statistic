@@ -1,0 +1,30 @@
+{
+	"description" : "Cars per 1000 inhabitants",
+	"Poland": {
+		"carPer1000": 642
+	},
+
+	"Spain": {
+		"carPer1000": 519
+	},
+
+	"Germany": {
+		"carPer1000": 574
+	},
+
+	"France": {
+		"carPer1000": 482
+	},
+
+	"Norway": {
+		"carPer1000": 522
+	},
+
+	"Sweden": {
+		"carPer1000": 473
+	},
+
+	"Italy": {
+		"carPer1000": 663
+	}
+}
