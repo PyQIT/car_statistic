@@ -52,3 +52,11 @@
   width: 100%;
   height: 100%;
 }
+
+.steering {
+  height: 10px;
+}
+
+.button {
+  background-color: aqua;
+}
