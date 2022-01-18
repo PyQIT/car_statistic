@@ -42,10 +42,10 @@ function Menu() {
                 Pojemność
             </ButtonComponent>
             <ButtonComponent onClick={onNavigateMotorEnergy}>
-                Moc
+                Paliwo
             </ButtonComponent>
             <ButtonComponent onClick={onNavigateInhabitants}>
-                Ilość samochodów
+                Mieszkańcy
             </ButtonComponent>
         </div>
     );
