@@ -1,177 +1,61 @@
 {
-	"labels": ["Poland", "Spain", "Germany", 'April', 'May', 'June', 'July'],
-	"Poland": {
-		"obj": [
-			{
-				"weight": "total",
-				"number": 24360166
-			},
-			{
-				"weight": "less than 1000 kg",
-				"number": 5333366
-			},
-			{
-				"weight": "from 1000 to 1249 kg",
-				"number": 6050079
-			},
-			{
-				"weight": "from 1250 to 1499 kg",
-				"number": 5979115
-			},
-			{
-				"weight": "1500 kg or over",
-				"number": 6997606
-			}
-		]
-	},
-
-	"Spain": {
-		"obj": [
-			{
-				"weight": "total",
-				"number": 24558126
-			},
-			{
-				"weight": "less than 1000 kg",
-				"number": 4056547
-			},
-			{
-				"weight": "from 1000 to 1249 kg",
-				"number": 7990171
-			},
-			{
-				"weight": "from 1250 to 1499 kg",
-				"number": 8718561
-			},
-			{
-				"weight": "1500 kg or over",
-				"number": 3792847
-			}
-		]
-	},
-
-	"Germany": {
-		"obj": [
-			{
-				"weight": "total",
-				"number": 47715977
-			},
-			{
-				"weight": "less than 1000 kg",
-				"number": 4594003
-			},
-			{
-				"weight": "from 1000 to 1249 kg",
-				"number": 13395437
-			},
-			{
-				"weight": "from 1250 to 1499 kg",
-				"number": 12823510
-			},
-			{
-				"weight": "1500 kg or over",
-				"number": 16903027
-			}
-		]
-	},
-
-	"France": {
-		"obj": [
-			{
-				"weight": "total",
-				"number": 32416180
-			},
-			{
-				"weight": "less than 1000 kg",
-				"number": 4442000
-			},
-			{
-				"weight": "from 1000 to 1249 kg",
-				"number": 11301000
-			},
-			{
-				"weight": "from 1250 to 1499 kg",
-				"number": 10804000
-			},
-			{
-				"weight": "1500 kg or over",
-				"number": 5869180
-			}
-		]
-	},
-
-	"Norway": {
-		"obj": [
-			{
-				"weight": "total",
-				"number": 2801208
-			},
-			{
-				"weight": "less than 1000 kg",
-				"number": 155721
-			},
-			{
-				"weight": "from 1000 to 1249 kg",
-				"number": 533527
-			},
-			{
-				"weight": "from 1250 to 1499 kg",
-				"number": 914749
-			},
-			{
-				"weight": "1500 kg or over",
-				"number": 1197211
-			}
-		]
-	},
-
-	"Sweden": {
-		"obj": [
-			{
-				"weight": "total",
-				"number": 4887116
-			},
-			{
-				"weight": "less than 1000 kg",
-				"number": 111197
-			},
-			{
-				"weight": "from 1000 to 1249 kg",
-				"number": 726996
-			},
-			{
-				"weight": "from 1250 to 1499 kg",
-				"number": 1437529
-			},
-			{
-				"weight": "1500 kg or over",
-				"number": 2611394
-			}
-		]
-	},
-
-	"Italy": {
-		"obj": [
-			{
-				"weight": "total",
-				"number": 39545232
-			},
-			{
-				"weight": "less than 1000 kg",
-				"number": 7604533
-			},
-			{
-				"weight": "from 1000 to 1249 kg",
-				"number": 15043852
-			},
-			{
-				"weight": "from 1250 to 1499 kg",
-				"number": 12932843
-			},
-			{
-				"weight": "1500 kg or over",
-				"number": 3964004
-			}
-		]
-	}
+	"description": "Cars by weight",
+	"data": [
+		{
+			"name": "Poland",
+			"totalWeight": 24360166,
+			"smallWeight": 5333366,
+			"mediumWeight": 6050079,
+			"secondMediumWeight": 5979115,
+			"highWeight": 6997606
+		},
+		{
+			"name": "Spain",
+			"totalWeight": 24558126,
+			"smallWeight": 4056547,
+			"mediumWeight": 7990171,
+			"secondMediumWeight": 8718561,
+			"highWeight": 3792847
+		},
+		{
+			"name": "Germany",
+			"totalWeight": 47715977,
+			"smallWeight": 4594003,
+			"mediumWeight": 13395437,
+			"secondMediumWeight": 12823510,
+			"highWeight": 16903027
+		},
+		{
+			"name": "France",
+			"totalWeight": 32416180,
+			"smallWeight": 4442000,
+			"mediumWeight": 11301000,
+			"secondMediumWeight": 10804000,
+			"highWeight": 5869180
+		},
+		{
+			"name": "Norway",
+			"totalWeight": 24558126,
+			"smallWeight": 4056547,
+			"mediumWeight": 7990171,
+			"secondMediumWeight": 8718561,
+			"highWeight": 3792847
+		},
+		{
+			"name": "Sweden",
+			"totalWeight": 4887116,
+			"smallWeight": 111197,
+			"mediumWeight": 726996,
+			"secondMediumWeight": 1437529,
+			"highWeight": 2611394
+		},
+		{
+			"name": "Italy",
+			"totalWeight": 39545232,
+			"smallWeight": 7604533,
+			"mediumWeight": 15043852,
+			"secondMediumWeight": 12932843,
+			"highWeight": 3964004
+		}
+	]
 }

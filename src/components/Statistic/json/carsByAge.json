@@ -1,205 +1,68 @@
 {
-	"description" : "Cars by age",
-	"Poland": {
-		"obj": [
-			{
-				"years": "total",
-				"number": 24360166
-			},
-			{
-				"years": "less than 2 years",
-				"number": 1412619
-			},
-			{
-				"years": "from 2 to 5 years",
-				"number": 1323901 
-			},
-			{
-				"years": "from 5 to 10 years",
-				"number": 2631518 
-			},
-			{
-				"years": "from 10 to 20 years",
-				"number": 2317743
-			},
-			{
-				"years": "more than 20 years",
-				"number": 16674385
-			}
-		]
-	},
-
-	"Spain": {
-		"obj": [
-			{
-				"years": "total",
-				"number": 24558126
-			},
-			{
-				"years": "less than 2 years",
-				"number": 2491292
-			},
-			{
-				"years": "from 2 to 5 years",
-				"number": 3194826 
-			},
-			{
-				"years": "from 5 to 10 years",
-				"number": 3653793 
-			},
-			{
-				"years": "from 10 to 20 years",
-				"number": 10703106
-			},
-			{
-				"years": "more than 20 years",
-				"number": 4515109
-			}
-		]
-	},
-
-	"Germany": {
-		"obj": [
-			{
-				"years": "total",
-				"number": 47715977
-			},
-			{
-				"years": "less than 2 years",
-				"number": 6495949
-			},
-			{
-				"years": "from 2 to 5 years",
-				"number": 8989597 
-			},
-			{
-				"years": "from 5 to 10 years",
-				"number": 12303603 
-			},
-			{
-				"years": "from 10 to 20 years",
-				"number": 16075510
-			},
-			{
-				"years": "more than 20 years",
-				"number": 3851318
-			}
-		]
-	},
-
-	"France": {
-		"obj": [
-			{
-				"years": "total",
-				"number": 32416180
-			},
-			{
-				"years": "less than 2 years",
-				"number": 4578452
-			},
-			{
-				"years": "from 2 to 5 years",
-				"number": 6441721 
-			},
-			{
-				"years": "from 5 to 10 years",
-				"number": 10397666 
-			},
-			{
-				"years": "from 10 to 20 years",
-				"number": 10998341
-			},
-			{
-				"years": "more than 20 years",
-				"number": 0
-			}
-		]
-	},
-
-	"Norway": {
-		"obj": [
-			{
-				"years": "total",
-				"number": 2801208
-			},
-			{
-				"years": "less than 2 years",
-				"number": 303184
-			},
-			{
-				"years": "from 2 to 5 years",
-				"number": 495988 
-			},
-			{
-				"years": "from 5 to 10 years",
-				"number": 783953 
-			},
-			{
-				"years": "from 10 to 20 years",
-				"number": 998923
-			},
-			{
-				"years": "more than 20 years",
-				"number": 219160
-			}
-		]
-	},
-
-	"Sweden": {
-		"obj": [
-			{
-				"years": "total",
-				"number": 4887116
-			},
-			{
-				"years": "less than 2 years",
-				"number": 882084
-			},
-			{
-				"years": "from 2 to 5 years",
-				"number": 907297 
-			},
-			{
-				"years": "from 5 to 10 years",
-				"number": 1160838 
-			},
-			{
-				"years": "from 10 to 20 years",
-				"number": 1562237
-			},
-			{
-				"years": "more than 20 years",
-				"number": 374660
-			}
-		]
-	},
-
-	"Italy": {
-		"obj": [
-			{
-				"years": "total",
-				"number": 39545232
-			},
-			{
-				"years": "less than 2 years",
-				"number": 4037521
-			},
-			{
-				"years": "from 2 to 5 years",
-				"number": 6860846 
-			},
-			{
-				"years": "from 5 to 10 years",
-				"number": 6017841 
-			},
-			{
-				"years": "from 10 to 20 years",
-				"number": 22629024
-			},
-			{
-				"years": "more than 20 years",
-				"number": 0
-			}
-		]
-	}
+	"description": "Cars by age",
+	"data": [
+		{
+			"name": "Poland",
+			"yearsTotal": 24360166,
+			"years02": 1412619,
+			"years25": 1323901,
+			"years510": 2631518,
+			"years1020": 2317743,
+			"years20x": 16674385
+		},
+		{
+			"name": "Spain",
+			"yearsTotal": 24558126,
+			"years02": 2491292,
+			"years25": 3194826,
+			"years510": 3653793,
+			"years1020": 10703106,
+			"years20x": 4515109
+		},
+		{
+			"name": "Germany",
+			"yearsTotal": 47715977,
+			"years02": 6495949,
+			"years25": 8989597,
+			"years510": 12303603,
+			"years1020": 16075510,
+			"years20x": 3851318
+		},
+		{
+			"name": "France",
+			"yearsTotal": 32416180,
+			"years02": 4578452,
+			"years25": 6441721,
+			"years510": 10397666,
+			"years1020": 10998341,
+			"years20x": 0
+		},
+		{
+			"name": "Norway",
+			"yearsTotal": 2801208,
+			"years02": 303184,
+			"years25": 495988,
+			"years510": 783953,
+			"years1020": 998923,
+			"years20x": 219160
+		},
+		{
+			"name": "Sweden",
+			"yearsTotal": 4887116,
+			"years02": 882084,
+			"years25": 907297,
+			"years510": 1160838,
+			"years1020": 1562237,
+			"years20x": 374660
+		},
+		{
+			"name": "Italy",
+			"yearsTotal": 39545232,
+			"years02": 4037521,
+			"years25": 6860846,
+			"years510": 6017841,
+			"years1020": 22629024,
+			"years20x": 0
+		}
+	]
 }
