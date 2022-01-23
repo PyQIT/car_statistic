@@ -91,7 +91,7 @@ function AgeStatistic() {
                         plugins: {
                             title: {
                                 display: true,
-                                text: 'Ilość samochodów ze względu na wagę'
+                                text: 'Ilość samochodów ze względu na wiek'
                             },
                             legend: {
                                 display: true,
